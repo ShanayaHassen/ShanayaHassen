@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there! 👋 I'm Shanaya  
 
-<!--
-**ShanayaHassen/ShanayaHassen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ A **passionate Full Stack Developer** who loves **blending technology with culture** and has a keen interest in **Japanese!** 🇯🇵  
 
-Here are some ideas to get you started:
+### 🚀 About Me  
+- 🔭 Currently working on an **e-commerce platform** for traditional and antique items in Sri Lanka 🏺  
+- 🌱 Exploring **new web technologies** to enhance my development skills 💡  
+- 👯 Open to collaborating on **exciting full stack development projects**  
+- 💬 Ask me about **business management, web development, and cultural tech projects**  
+- 📫 Reach me at **gshanayahassen@gmail.com**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Let's **build something amazing together!** 🚀  
+
